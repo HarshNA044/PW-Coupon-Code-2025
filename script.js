@@ -1,7 +1,7 @@
 // Google Sheets configuration
-const SHEET_ID = 'YOUR_GOOGLE_SHEET_ID';
-const API_KEY = 'YOUR_GOOGLE_API_KEY';
-const SHEET_NAME = 'Coupons';
+const SHEET_ID = 'https://docs.google.com/spreadsheets/d/1yNYWI5u7q105J9Oz3n5IoV98AQrNo68LqWbJoybm5Xs/edit?usp=drivesdk';
+const API_KEY = 'AIzaSyCq6mM2NKYsnVHrEStJv99Yd6djXDc3Tsc';
+const SHEET_NAME = 'CouponDetails';
 
 // DOM Elements
 const couponForm = document.getElementById('coupon-form');
